@@ -1,0 +1,11 @@
+.git
+.venv
+.deps
+.vite
+tmp
+frontend/node_modules
+frontend/dist
+backend/khadaan_drishti.db
+data/uploads
+__pycache__
+*.py[cod]

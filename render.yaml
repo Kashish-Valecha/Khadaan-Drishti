@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: khadaan-drishti-demo
+    runtime: docker
+    healthCheckPath: /api/health
+    autoDeploy: true
